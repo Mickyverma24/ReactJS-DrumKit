@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactJS-DrumKit/static/css/main.3908256a.css",
+    "main.js": "/ReactJS-DrumKit/static/js/main.4d63e9c8.js",
+    "static/js/787.e27aaab1.chunk.js": "/ReactJS-DrumKit/static/js/787.e27aaab1.chunk.js",
+    "static/media/background.jpg": "/ReactJS-DrumKit/static/media/background.0942214b9f1c908911c1.jpg",
+    "static/media/ride.wav": "/ReactJS-DrumKit/static/media/ride.44e6385400f6b7c38f7c.wav",
+    "static/media/openhat.wav": "/ReactJS-DrumKit/static/media/openhat.482e523113fddc21f663.wav",
+    "static/media/boom.wav": "/ReactJS-DrumKit/static/media/boom.d89f41a5296c9cc8d21e.wav",
+    "static/media/tom.wav": "/ReactJS-DrumKit/static/media/tom.52db9c2303efd5360380.wav",
+    "static/media/clap.wav": "/ReactJS-DrumKit/static/media/clap.eb738e5291d099fc97b4.wav",
+    "static/media/hihat.wav": "/ReactJS-DrumKit/static/media/hihat.0273528cafd1985aa0e4.wav",
+    "static/media/snare.wav": "/ReactJS-DrumKit/static/media/snare.3aa3f94341c18d1e00d1.wav",
+    "static/media/kick.wav": "/ReactJS-DrumKit/static/media/kick.1d842c5565abcec54198.wav",
+    "static/media/tink.wav": "/ReactJS-DrumKit/static/media/tink.5b878d5df85f3294ee04.wav",
+    "index.html": "/ReactJS-DrumKit/index.html",
+    "main.3908256a.css.map": "/ReactJS-DrumKit/static/css/main.3908256a.css.map",
+    "main.4d63e9c8.js.map": "/ReactJS-DrumKit/static/js/main.4d63e9c8.js.map",
+    "787.e27aaab1.chunk.js.map": "/ReactJS-DrumKit/static/js/787.e27aaab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3908256a.css",
+    "static/js/main.4d63e9c8.js"
+  ]
+}
