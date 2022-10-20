@@ -27,10 +27,13 @@ body{
 kbd{
     display: block;
     background-color: transparent;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 .playing{
     transform: scale(1.1);
     border-color: cornsilk;
     box-shadow: 0 0 10px rgb(84, 224, 208) ;    
+}
+.sound{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
